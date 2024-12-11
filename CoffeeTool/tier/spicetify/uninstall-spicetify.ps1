@@ -1,1 +1,0 @@
-spicetify restore; Remove-Item -Recurse -Force $env:APPDATA\spicetify; Remove-Item -Recurse -Force $env:LOCALAPPDATA\spicetify
